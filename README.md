@@ -6,10 +6,10 @@ Ping Pong ou Breakout feito em SpriteKit mas com considerações para jogadores
 usuários de Voice Over.
 
 A configuração do Voice Over para a raquete pode ser encontrada na função 
-didMove(to view: SKView) na classe GameScene. 
+`didMove(to view: SKView)` na classe `GameScene`. 
 
 Uma alternativa de adaptação ao uso de Voice Over pode ser encontrada em um 
-comentário na função viewDidLoad(), na classe GameViewController. Maiores 
+comentário na função `viewDidLoad()`, na classe `GameViewController`. Maiores 
 explicações se encontram no comentário.
 
 
